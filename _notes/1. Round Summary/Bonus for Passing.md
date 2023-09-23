@@ -8,6 +8,5 @@
 
 
 <원문>
-<img src="..\Attached File\BonusForPassing.png"/>
+<img src="/BonusForPassing.png"/>
 
-<img src="G:\Obsidian\Obsidian Data\Attached File\BonusForPassing.png"/>
