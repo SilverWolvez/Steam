@@ -1,22 +1,33 @@
+---
+layout: page
+title: Home
+id: home
+permalink: /
+---
 
-# UROPA UNIVERSALIS - THE PRICE OF POWER
+# Welcome! 🌱
 
-## Player_Aid ('23_1.2v)
-### [[Round Summary]]
-[[기본 액션 목록]]
-[[군사 유닛 비용]]
+<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
+  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+</p>
 
-## **작업 대기**
-### 이벤트 심볼
-### 전쟁 선포 (DOW)
-### 동맹 소집 (CTA)
-### 전투 주사위
-### 전투 순서 (Battle Sequence)
+This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
+The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
 
-## 카드 정리
-### 이벤트 카드
-### 액션 카드
-### 미션 카드
-### 아이디어 카드
-### 마일스톤 카드
+<strong>Recently updated notes</strong>
+
+<ul>
+  {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
+  {% for note in recent_notes limit: 5 %}
+    <li>
+      {{ note.last_modified_at | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ note.url }}">{{ note.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+<style>
+  .wrapper {
+    max-width: 46em;
+  }
+</style>
