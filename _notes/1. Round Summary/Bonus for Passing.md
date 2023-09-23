@@ -8,5 +8,7 @@
 
 
 <원문>
-<img src="/BonusForPassing.png"/>
+
+
+<img src="\Assets\BonusForPassing.png"/>
 
