@@ -11,7 +11,7 @@
 ##### * [[스파이 네트워크(Spy Network)]] 카드가 플레이 중이라면 1외교력을 적게 낸다.
 
 ## 카드 이미지
-
+<img src="\Assets\Counterespionage.png"/>
 ![[Counterespionage.png]]
 
 --- 

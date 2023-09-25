@@ -10,8 +10,8 @@
 ##### (1외교력) 해군 징집 : 항구당 배를 2척까지 생산한다. 사용한 4두캇 마다 1두캇을 할인받는다.
 ##### (1외교력) 탐험가 : 추가 비용없이 [[탐험액션]]을 수행한다.
 ## 카드 이미지
-
-![[naval Traditions.png]]
+<img src="\Assets\Naval Traditions.png"/>
+![[Naval Traditions.png]]
 
 --- 
 ### 연관 페이지

@@ -11,7 +11,7 @@
 ##### (2외교력) 평판 훼손 공작 :상대의 영향력을 자신의 영향력으로 교체한다.
 
 ## 카드 이미지
-
+<img src="\Assets\Spy Network.png"/>
 ![[Spy Network.png]]
 --- 
 ### 연관 페이지

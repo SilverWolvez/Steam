@@ -11,7 +11,6 @@
 
 ## 카드 이미지
 <img src="\Assets\Revolutionary Ideas.png"/>
-
 ![[Revolutionary Ideas.png]]
 
 --- 

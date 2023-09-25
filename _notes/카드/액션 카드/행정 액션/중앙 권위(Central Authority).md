@@ -11,7 +11,6 @@
 ##### (1행정력) 전쟁세금 : 1불안을 획득하고 당신의 배치된 유닛 숫자와 동일한 두캇 획득. 사용횟수를 2 소진한다.
 ## 카드 이미지
 <img src="\Assets\Central Authority.png"/>
-
 ![[Central Authority.png]]
 
 ---
