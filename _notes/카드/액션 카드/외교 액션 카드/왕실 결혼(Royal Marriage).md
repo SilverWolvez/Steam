@@ -11,6 +11,8 @@
 ## 카드 이미지
 <img src="\Assets\Royal Marriage.png"/>
 ![[Royal Marriage.png]]
+
 --- 
+
 ### 연관 페이지
 - 연관 페이지
