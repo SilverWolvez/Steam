@@ -10,8 +10,8 @@
 ##### 이번 전투에서 장군/제독이 얻은 질병토큰 하나를 제거한다.
 
 ## 카드 이미지
-<img src="\Assets\ImageName.png"/>
-![[Pasted image 20230928214931.png]]
+<img src="\Assets\Tactical Retreat.png"/>
+![[Tactical Retreat.png]]
 
 --- 
 
