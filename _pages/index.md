@@ -1,3 +1,10 @@
+---
+layout: page
+title: Home
+id: home
+---
+-
+
 ### EUROPA UNIVERSALIS - THE PRICE OF POWER
 
 #### Player_Aid ('23_1.2v)
