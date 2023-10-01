@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## 카드 정보
 ##### 카드 이름 : 왕실 결혼(Royal Marriage)
 ##### 사용 비용 : 1외교력

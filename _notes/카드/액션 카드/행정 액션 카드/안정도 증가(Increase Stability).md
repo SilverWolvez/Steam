@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## 카드 정보
 ##### 카드 이름 : 안정도 증가(Increase Stability)
 ##### 사용 비용 : 3행정력*

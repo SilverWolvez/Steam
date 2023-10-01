@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## 카드 정보
 ##### 카드 이름 : 우수한 전술(Superior Tactics)
 ##### 사용 비용 : 1군사력

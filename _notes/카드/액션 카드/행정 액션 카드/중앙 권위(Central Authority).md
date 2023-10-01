@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## 카드 정보
 ##### 카드 이름 : 중앙 권위(Central Authority)
 ##### 사용 비용 : 2 행정력 + 2 두캇  

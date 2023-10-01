@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## 카드 정보
 ##### 카드 이름 : 신앙 자유 칙령(Royal Letter of Bohemia)
 ##### 카드번호  : 353B

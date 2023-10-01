@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## 카드 정보
 ##### 카드 이름 : 군사 개혁(Military Reforms)
 ##### 사용 비용 : 1군사력 + 2두캇

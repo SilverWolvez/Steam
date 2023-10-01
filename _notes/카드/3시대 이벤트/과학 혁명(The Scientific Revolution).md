@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## 카드 정보
 ##### 카드 이름 : 과학 혁명(The Scientific Revolution)
 ##### 카드번호  : 354B

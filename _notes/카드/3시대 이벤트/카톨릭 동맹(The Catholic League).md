@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## 카드 정보
 ##### 카드 이름 : 카톨릭 동맹(The Catholic League)
 ##### 카드번호  : 301-1

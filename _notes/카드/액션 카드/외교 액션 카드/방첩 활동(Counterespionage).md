@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## 카드 정보
 ##### 카드 이름 : 방첩 활동(Counterespionage)
 ##### 사용 비용 : 2외교력*

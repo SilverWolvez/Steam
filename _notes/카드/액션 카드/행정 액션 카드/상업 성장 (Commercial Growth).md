@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## 카드 정보
 ##### 카드 이름 : 상업 성장 (Commercial Growth)
 ##### 사용 비용 : 2행정력* + 3두캇  

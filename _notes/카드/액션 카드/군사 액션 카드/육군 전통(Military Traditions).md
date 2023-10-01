@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## 카드 정보
 ##### 카드 이름 : 육군 전통(Military Traditions)
 ##### 사용 비용 : 2군사력 + 2두캇

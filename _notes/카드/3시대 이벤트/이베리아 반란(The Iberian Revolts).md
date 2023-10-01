@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## 카드 정보
 ##### 카드 이름 : 이베리아 반란(The Iberian Revolts)
 ##### 카드번호  : 302-1

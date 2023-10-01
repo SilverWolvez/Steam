@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## 카드 정보
 ##### 카드 이름 : 이례적인 해(Exceptional Year)
 ##### 사용 비용 : 2행정력

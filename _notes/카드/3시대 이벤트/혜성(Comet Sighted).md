@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## 카드 정보
 ##### 카드 이름 : 혜성(Comet Sighted)
 ##### 카드번호  : 31A-1

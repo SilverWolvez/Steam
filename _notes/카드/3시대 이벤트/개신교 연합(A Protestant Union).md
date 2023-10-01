@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## 카드 정보
 ##### 카드 이름 : 개신교 연합(A Protestant Union)
 ##### 카드번호  : 34A-1
