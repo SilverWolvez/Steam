@@ -1,5 +1,5 @@
 ## 카드 정보
-##### 카드 이름 : 빈틈없는 무역 관행(Shrewd Trade Practices)
+##### 카드 이름 : 뛰어난 상인 훈련(Shrewd Trade Practices)
 ##### 카드 종류 : [[아이디어]], 외교
 ---
 ## 카드 본문

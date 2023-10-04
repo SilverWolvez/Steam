@@ -16,6 +16,7 @@ dg-publish: true
 ## 카드 이미지
 <img src="\Assets\Spy Network.png"/>
 ![[Spy Network.png]]
+
 --- 
 ### 연관 페이지
-- 연관 페이지
+- [[액션 카드 목록]]
