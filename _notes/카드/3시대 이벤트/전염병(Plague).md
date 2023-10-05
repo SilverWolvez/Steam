@@ -16,8 +16,8 @@ dg-publish: true
 ##### 해적, 종교확산, ○질병
 
 ## 카드 이미지
-<img src="\Assets\Plague2.png"/>
-![[Plague2.png]]
+<img src="\Assets\Plague3.png"/>
+![[Plague3.png]]
 
 --- 
 ### 연관 페이지
