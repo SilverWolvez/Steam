@@ -7,7 +7,7 @@
 ---
 ## 카드 본문
 ##### New England, Virginia, Hudson Bay, Canada, Antilles 중 2개 이상 소유한다. 
-##### *효과*  : 개척자 1명 획득. 행정력 1을 지불하여 English Channel [[무역노드]]에 [[무역확장]] 토큰을 놓을 수 있다.
+##### *효과*  : 개척자 1명 획득. 행정력 1을 지불하여 English Channel [[무역 노드]]에 [[무역확장]] 토큰을 놓을 수 있다.
 
 ## 카드 이미지
 <img src="\Assets\Settle in America.png"/>

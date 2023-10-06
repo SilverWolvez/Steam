@@ -8,7 +8,7 @@
 ## 카드 본문
 ##### ADRIATIC SEA에 닿아 있는 항구 중 4개 이상을 소유한다. 
 
-##### *효과*  : ADRIATIC SEA에 3개의 갤리선을 얻거나 행정력 1을 지불하여 Adriatic Sea [[무역노드]]를 확장한다.
+##### *효과*  : ADRIATIC SEA에 3개의 갤리선을 얻거나 행정력 1을 지불하여 Adriatic Sea [[무역 노드]]를 확장한다.
 ## 카드 이미지
 <img src="\Assets\Adriatic Ports.png"/>
 ![[Adriatic Ports.png]]

@@ -11,11 +11,6 @@ dg-publish: true
 ##### 해방된 종속국은 NPR이 된다.
 - 
 
-
-## 아이콘
-<img src="\Assets\ImageName.png"/>
-
-
 --- 
 
 ### 연관 페이지

@@ -14,7 +14,7 @@ dg-publish: true
 ##### 파워스트러글, 종교적아이디어 확산, 반란주사위, △질병
 
 ## 카드 이미지
-<img src="\Assets\A Protestant Unionpng"/>
+<img src="\Assets\A Protestant Union.png"/>
 ![[A Protestant Union.png]]
 
 --- 
