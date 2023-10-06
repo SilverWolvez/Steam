@@ -2,7 +2,7 @@
 dg-publish: true
 ---
 ## 카드 정보
-##### 카드 이름 : 동인도회사(East India Company)
+##### 카드 이름 : 동인도 회사(East India Company)
 ##### 카드번호  : 352B
 ---
 ## 카드 본문
