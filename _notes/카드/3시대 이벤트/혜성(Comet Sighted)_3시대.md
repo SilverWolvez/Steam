@@ -16,8 +16,8 @@ dg-publish: true
 ##### 반군주사위, DNPR확장(연두,분홍), 해상실종, □질병
 
 ## 카드 이미지
-<img src="\Assets\Comet Sighted.png"/>
-![[Comet Sighted.png]]
+<img src="\Assets\Comet Sighted_3.png"/>
+![[Comet Sighted_3.png]]
 
 --- 
 ### 연관 페이지
