@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 ## 카드 정보
 ##### 카드 이름 : 위그노 반란(Huguenot Rebellions)
 ##### 카드번호  : 304-1

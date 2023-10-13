@@ -11,8 +11,8 @@ B) 베네치아의 에게해 헤게모니 : 오스만(국가)는 [[명성 점수
 ##### 해적
 
 ## 카드 이미지
-<img src="\Assets\ImageName.png"/>
-![[Pasted image 20231013114748.png]]
+<img src="\Assets\106-1.png"/>
+![[106-1.png]]
 
 --- 
 
